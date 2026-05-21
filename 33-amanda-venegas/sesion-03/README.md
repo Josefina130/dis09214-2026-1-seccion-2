@@ -1,5 +1,3 @@
-# sesión 03 - 27/03
-
 # 🌸 Clase 27-03-2026  Introducción al pj5 🌸
 
 #### ¿Que es un algoritmo? 
