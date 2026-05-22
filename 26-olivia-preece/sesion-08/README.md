@@ -17,4 +17,4 @@ x
 El proyecto representa como los estereotipos sociales afectan en la
 identidad personal. A través de la interacción el sistema muestra una transición desde una presión visual constante hacia una frase final como cierre reflexivo. 
 
-Los esteretipos de género funcionan como "reglas sociales implícitas"
+Los esteretipos de género funcionan como "reglas sociales implícitas" que indican como uno "debe ser" según su género. Estas ideas generan presión constante sobre la identidad personal.
