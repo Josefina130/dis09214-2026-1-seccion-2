@@ -316,12 +316,20 @@ el codigo que creamos funciona en base al reconocimiento facial de el usuario qu
 
 con esta logica podemos representar como la sociedad simplifica al usuario a un simple objeto para detectar visualmente y ser "juzgado" por su apariencia la cual despues es analizada y etiquetada, deshumanizando al usuario. 
 • Input / Output y sistema
-¿Qué datos entran? (INPUT) reconocimiento facial del usuario 
-¿Cómo se procesan y transforman?
-¿Qué respuesta visual producen? (OUTPUT) se clasifica con una bandera LGBT al detectar tu rostro
+
+
+¿Qué datos entran? (INPUT) *reconocimiento facial del usuario y click a la pantalla.*
+¿Qué respuesta visual producen? (OUTPUT) *se clasifica con una bandera LGBT al detectar tu rostro o cambia con el click del mouse.*
+
+
 • Pensamiento computacional
+
+
 Reglas que gobiernan el sistema (inputs, procesos, outputs)
-Explicación del sistema de interactividad este sitema 
+Explicación del sistema de interactividad 
+*el programa al detectar el rostro del usuario empieza a seleccionar una imagen de la bandera LGBT aleatoria la cual se queda pegada a la frente de este con la opcion de presionar el mouse y obtener otro resultado de imagen.*
+
+
 
 
 
