@@ -1,7 +1,7 @@
 # sesión 06 - 14/04
 
 
-# Clase: Funciones Propias y Pensamiento Computacional 🚀
+# Clase: Funciones Propias y Pensamiento Computacional 
 
 ## Bitácora (GitHub)
 **Formato de apuntes:** Para los apuntes de clase en GitHub, hay que usar **siempre** archivos con extensión `.md` (Markdown)
