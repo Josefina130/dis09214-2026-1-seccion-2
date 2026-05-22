@@ -1,4 +1,3 @@
-# sesión 04 - 10/04
 # sesión 05 - 10/04
 # Transformaciones y condicionales {If-else}  
 
