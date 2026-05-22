@@ -21,3 +21,12 @@ El proyecto representa como los estereotipos sociales afectan en la
 identidad personal. A través de la interacción el sistema muestra una transición desde una presión visual constante hacia una frase final como cierre reflexivo. 
 
 Los esteretipos de género funcionan como "reglas sociales implícitas" que indican como uno "debe ser" según su género. Estas ideas generan presión constante sobre la identidad personal.
+
+## Input (datos de entrada)
+Los datos de entrada corresponden a los tamaños de las distintas formas, a su ubicación, tonalidad y movimiento de esta. 
+De esta manera generamos instrucciones que determinan cómo se comportan nuestro elementos visuales. 
+-(Procesamiento y transformación)
+Nuestras figuras tienen un sistema de transformación por la herramienta random, mousePressed, entre otras. De esta manera a lo largo de la reproducción de la composición se van cambiando colores y tamaños, también irán apareciendo nuevos textos y un cambio de imagen.
+## (Output)
+Nuestra imagen final se activa al momento de hacer click en la parte de abajo de la pantalla, primero para crear interacción con el usuario y segundo para dejar un mensaje final que deje clara nuestra intención con la composición.
+
