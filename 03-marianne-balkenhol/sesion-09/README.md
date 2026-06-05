@@ -86,9 +86,6 @@ Son utiles para menus y navegacion.
 
 En vez de usar botones HTML se pueden dibujar figuras y detectar si el mouse hizo clic dentro de ellas.
 
-Ejemplos:
-- rect
-- ellipse
 
 ---
 
