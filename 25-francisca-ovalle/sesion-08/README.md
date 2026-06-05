@@ -1,4 +1,4 @@
-# sesión 08 - 22/05 Apuntes 
+# sesión 08 - 29/05 Apuntes 
 ---
 ## Algoritmo  
 Es una secuencia instrucciones *paso a paso, lógicas, definidas, ordenadas y finitas* que permiten solucionar un problema o realizar una tarea específica.  
@@ -17,6 +17,8 @@ Output (salida): El resultado final o la solución al problema.
 
 #### Diagrama de flujo:   
 Representación gráfica de un algoritmo o de los pasos de un proceso. En programación, se utiliza como una **herramienta de planificación** para visualizar la lógica de un programa antes de escribir una sola línea de código.  
+*Ejemplo de diagrama:*  
+[!](
 
  
 
