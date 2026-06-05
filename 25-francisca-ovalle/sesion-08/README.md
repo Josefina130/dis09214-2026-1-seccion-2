@@ -1,4 +1,4 @@
-# sesión 08 -  Apuntes 
+# sesión 08 - 22/05 Apuntes 
 ---
 ## Algoritmo  
 Es una secuencia instrucciones *paso a paso, lógicas, definidas, ordenadas y finitas* que permiten solucionar un problema o realizar una tarea específica.  
