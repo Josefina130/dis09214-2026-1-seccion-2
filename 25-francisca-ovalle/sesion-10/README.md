@@ -1,1 +1,2 @@
-# sesión 06 - 14/04
+# sesión 10 - 12/06 Apuntes
+---
