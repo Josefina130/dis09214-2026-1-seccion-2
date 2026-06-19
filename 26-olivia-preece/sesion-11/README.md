@@ -30,3 +30,12 @@ Usar translate - push y pop
 Consejo para proyectos complejos  
 En lugar de hacer matemáticas complejas en cada rect() o ellipse (), usamos translate() para "mover el origen del mundo" y siempre utilizando push() y pop() para cada figura o elemento. 
 
+### DESAFÍO DE CLASE  
+Bandera de chile diseño responsivo LO LOGRE YUJU
+
+## Agregar Imágenes loadImage()  
+### * Paso 1 Subir la imagen a p5  
+Hacer clic en la pequeña flecha hacia la derecha(>) ubicada en la esquina superior izquierda del editor (debajo del botón de play). Esto aabre el menú de archivos laterales. Hacer clic en el ícono de + o el menú desplegable junto a Files. Seleccionar Upload file (Subir archivo). Arrastrar la imagen o buscarla en el computador. Recomendación: usar nombres de archivos cortos y con mínusculas y sin espacios. Hacer una carpeta llamada ASSETS.
+
+
+
