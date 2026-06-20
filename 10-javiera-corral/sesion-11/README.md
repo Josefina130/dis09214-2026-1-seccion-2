@@ -377,5 +377,5 @@ function estilarBotonesMinimales() {
   btnPlay.style('cursor', 'pointer');
 }
 ```
-video tutorial: https://learningsynths.ableton.com/
-https://learningsynths.ableton.com/en/playground (arreglar link)
+[revisar links](https://learningsynths.ableton.com/
+https://learningsynths.ableton.com/en/playground)
