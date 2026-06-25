@@ -169,5 +169,6 @@ Reglas que gobiernan el sistema (inputs, procesos, outputs)
 Explicación del sistema de interactividad 
 *El programa al detectar el rostro del usuario empieza a circular múltiples imágenes  de las banderas de la comunidad LGBT de manera aleatoria y al interactuar con ellas se detienen y se selecciona aleatoriamente una bandera. La cual se queda pegada a la frente delusuario sin la capacidad de cambiarla por más que lo intenten.*
 
-Opiniones finales 
+Mensaje final
 -
+Este sketch puede categorizarse como lo más divertido y estresante que hemos hecho durante este ramo, tan intrigante y lleno de nueva información que nos motiva a seguir aprendiendo y desafiando qué tan lejos puede llegar el diseño en cualquier medio que se realice. para nosotros esta problemática es bastante cercana ya que dia a dia se pone a prueba como las personas nos perciben y si su percepción es acertada o no es la incertidumbre que lleva a la ansiedad de encajar o ser visto de la mejor manera posible por todas las personas que alguna vez tuvieron que verte y categorizarse. puede ser difícil tomar esta situación como algo más que un tema extremadamente serio y ese es el desafío que nos planteamos a la hora de empezar el proyecto, que tanto podemos aligerar una carga tan grande para toda una comunidad marginada de personas que solo buscan la aceptación y comprensión de quienes los rodean, a nuestro parecer. Lo logramos con éxito.
