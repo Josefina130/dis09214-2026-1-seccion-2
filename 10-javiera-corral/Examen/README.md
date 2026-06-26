@@ -142,11 +142,11 @@ class Confetto {
 
 DIAGRAMA DE FLUJO (arreglar)
 -
-[link de pagina](https://miro.com/welcomeonboard/ZmZkb0tieks4NjhXeDhLSzBQVVBGVEEyaVppU01wdlV1M0EwMHhndFR0S1ZMaTM2SVJCc1NhS1d5MXVyZ2FTVjNVK25EUWNJTm53aTZRSmlFRDNsL1ZoWTBORzZ2S2dyczFlQjFtYkhBTXkxOXlSeVN1RjltS1R6R01lTWRMcUxNakdSWkpBejJWRjJhRnhhb1UwcS9BPT0hdjE=?share_link_id=360820752016)
+[link de pagina](https://canva.link/e0sex9b12uywgud)
 
 aun no agrego imagen
 
-NUESTRO PROYECTO: label Maker (poner version final)
+NUESTRO PROYECTO: ¿ERES TRANS?
 -
 
 
