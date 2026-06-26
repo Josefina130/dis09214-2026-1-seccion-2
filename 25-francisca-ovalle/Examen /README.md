@@ -6,7 +6,8 @@ Hecho por :
 **Francisca Ovalle**  
 
 ----------
-Link al P5.js: 
+**Link al P5.js:**  
+[P5.js](
 
 ## ¿Que es el proyecto?
 *El proyecto busca expresar metafóricamente una problemática de género: la brecha de autoridad que existe hacia las mujeres. Esta se refiere a cómo a las mujeres se les otorga menos autoridad, respeto y credibilidad que a los hombres. En el día a día, muchas recibimos cuestionamientos sobre nuestra inteligencia e incluso se nos hace dudar de nuestras propias vivencias, a través de comentarios sobre experiencias que hemos vivido o temas que ya conocemos. Un caso típico es la menstruación o el embarazo, donde muchas veces se minimizan los dolores porque no se comprende que una mujer pueda soportar ciertas experiencias, poniendo constantemente en duda su conocimiento y su experiencia.
@@ -38,5 +39,8 @@ Para la paleta de colores nos inspiramos en la estética retro-pop, utilizando t
 
 #### Diagrama de flujo:  
 ![b](https://github.com/frannui/dis09214-2026-1-seccion-2/blob/main/25-francisca-ovalle/Examen/Mi%20primer%20tablero.jpg?raw=true)
+
+#### Codigo comentado:
+
 
 
