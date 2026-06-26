@@ -43,4 +43,4 @@ nombreVariable.getRate() : Devuelve la velocidad de reproducción actual (ej: 1.
 ### 3 componentes de un sintetizador básico  
 1.  El Oscilador (p5.Oscillator): Es el motor que genera el sonido. Puede tener distintas "formas de onda" que cambian el timbre del sonido: 'sine' (onda senoidal ó sinusoidal: un sonido suave, como una flauta).  'triangle' (onda triangular: sonido intermedio).  'sawtooth' (onda de diente de sierra: un sonido brillante y rasposo, como de sintetizador de los 80).  'square' (onda cuadrada: sonido retro, tipo videojuego de 8 bits).  
 2.    La Frecuencia (Frequence): Controla qué tan rápido vibra la onda. Matemáticamente, a mayor frecuencia, el sonido es más agudo; a menor frecuencia, es más grave. Se mide en Hertz (Hz).  
-3.  La Amplitud (Amplitude): Controla la altura de la onda, lo que nosotros percibimos como el volumen. Va de 0.0 (silencio) a 1.0 (máximo).  
+3.  La Amplitud (Amplitude): Controla la altura de la onda, lo que nosotros percibimos como el volumen. Va de 0.0 (silencio) a 1.0 (máximo). 
