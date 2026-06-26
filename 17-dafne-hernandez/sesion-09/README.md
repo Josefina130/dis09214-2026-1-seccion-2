@@ -39,7 +39,7 @@ A LÓGICA DEL CAMBIO Y EL REINICIO
 
 - Interacción con el teclado.
 - Botones reales en la pantalla.
-- Zonas de clicl (Botones dibujados).
+- Zonas de click (Botones dibujados).
 - Interacciones automáticas por tiempo.
 
  ## CÁMARA WEB  
@@ -48,3 +48,5 @@ A LÓGICA DEL CAMBIO Y EL REINICIO
 2. Se debe inicializar la cámara en ```function setup()``` utilizando un comando especial ```createCapture(VIDEO)```, también se define el tamaño con ```captura.size```y es muy importante agregar el ```captura.hide();``` para que esconda el video que html pone abajo de manera default.
 
 3. Dibujar la cámara en el ```function draw()``` usamos la ```función image()```. p5.js toma cada cuadro de la cámara y lo dibuja en el lienzo en tiempo real.
+
+![Gato](https://i.pinimg.com/736x/90/ce/b7/90ceb75734753ebbd77da84148182967.jpg)
