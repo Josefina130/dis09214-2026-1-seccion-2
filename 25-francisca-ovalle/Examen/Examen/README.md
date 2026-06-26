@@ -31,4 +31,4 @@ En este caso nuestros referentes fueron estas escenas que aprecen abajo y para p
 En este caso, nuestros referentes fueron las escenas que aparecen a continuación, la escena íconica de la Barbie azafata en los postcreditos de "Toy Story 2". Este recurso nos permitió reforzar la idea de que el usuario está "dentro de una llamada".
 Para la paleta de colores nos inspiramos en la estética retro-pop, utilizando tonos intensos como el rojo y el amarillo, asociados a los teléfonos antiguos y a la gráfica publicitaria de mediados del siglo XX. Elegimos esta estética porque queríamos ironizar la situación: una interfaz llamativa y colorida contrasta con el contenido incómodo de las frases de mansplaining, generando un choque entre la apariencia y el mensaje crítico.  
 
-!
+
